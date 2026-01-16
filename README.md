@@ -220,7 +220,7 @@ This tool is intended for educational and legitimate purposes only, such as:
 
 ## Author
 
-**WAM Dev**
+**[WAM Development](https://github.com/walid-moussa55)**
 
 ## Contributing
 
